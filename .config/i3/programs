@@ -1,0 +1,13 @@
+bindsym $mod+q exec --no-startup-id kitty --title "Floating Kitty"
+bindsym $mod+t exec --no-startup-id kitty
+bindsym $mod+d exec --no-startup-id discord
+bindsym $mod+b exec --no-startup-id firefox
+bindsym $mod+e exec --no-startup-id thunar
+bindsym $mod+y exec --no-startup-id youtube-music
+bindsym $mod+Shift+b exec --no-startup-id firefox --incognito
+
+
+bindsym $mod+i exec --no-startup-id gnome-calculator
+
+
+bindsym $mod+Shift+s exec flameshot gui
